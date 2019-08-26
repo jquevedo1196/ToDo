@@ -1,7 +1,7 @@
 # todo
 
 A new Flutter project.
-
+Este es un app para organizar las cosas por hacer.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
